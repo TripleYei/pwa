@@ -1,0 +1,24 @@
+{
+	"name": "aplicacion pwa",
+	"short_name": "pwa",
+	"start_url": "/pwa/index.html",
+	"display": "standalone",
+    "description": "App for testing PWA features",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "orientation": "portrait-primary",
+    "icons": [{
+    "src": "gato.png",
+    "sizes": "640x425",
+    "type": "image/png"
+	},{
+    "src": "gato.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  },{
+    "src": "gato.png",
+    "sizes": "200x144",
+    "type": "image/png"
+  }
+    ]
+}

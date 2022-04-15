@@ -1,0 +1,29 @@
+  body{
+  		margin: 0;
+  		background-color: black;
+  	}
+  header{
+  		background-color: black;
+  		color: white;
+  		text-align: center;
+  	}
+  h1{
+  		font-size: 5em;
+  	}
+  article{
+  		color:white;
+  		max-width: 100%;
+  		background-color: gray;
+  	}
+  footer{
+  		color:white;
+  		text-align: center;
+  	}
+  #gato1:hover{
+  		border-radius: 200%;
+  		background-color: white;
+  	}
+  #gato2:hover{
+  		border-radius: 200%;
+  		background-color: red;
+  	}
